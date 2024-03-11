@@ -17,6 +17,8 @@
 
 This Project made use of an HR dataset, cleaned the data set and created power BI visualizations for the data.
 
+![Screenshot (23)](https://github.com/Samuelekengita/Power-Bi-Project/assets/162126123/d54b0089-08de-4cea-893a-faa2297cea0d)
+
 ## Data Sources
 
 
