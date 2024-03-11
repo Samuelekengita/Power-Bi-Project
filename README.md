@@ -19,6 +19,12 @@ This Project made use of an HR dataset, cleaned the data set and created power B
 
 ![Screenshot (23)](https://github.com/Samuelekengita/Power-Bi-Project/assets/162126123/d54b0089-08de-4cea-893a-faa2297cea0d)
 
+
+![Screenshot (24)](https://github.com/Samuelekengita/Power-Bi-Project/assets/162126123/5db0ba7e-9ec3-420d-aa0d-236c40636bce)
+
+
+![Screenshot (25)](https://github.com/Samuelekengita/Power-Bi-Project/assets/162126123/88976dc2-5a54-4aff-a4fc-3d8ccb9250c5)
+
 ## Data Sources
 
 
