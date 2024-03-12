@@ -28,7 +28,7 @@ This Project made use of an HR dataset, cleaned the data set and created power B
 ## Data Sources
 
 
-The dataset made use of in the project is HR Analytics Data.csv and HR Employee Data.csv whichcontained detailed information about the company's employees.
+The dataset made use of in the project is HR Analytics Data.csv and HR Employee Data.csv which contained detailed information about the company's employees.
 
 ### Tools
 
